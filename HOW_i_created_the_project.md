@@ -31,7 +31,7 @@ styles/     → Global styles
 ```
 ### 3. Pages & Routing
 Pages were created using Next.js App Router:
-
+```
 / – Home
 
 /auth – Login/Register
@@ -41,7 +41,7 @@ Pages were created using Next.js App Router:
 /wishlist
 
 /orders
-
+```
 Each route is defined using page.tsx inside the app/ directory.
 
 ### 4. Components & UI
