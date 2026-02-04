@@ -31,6 +31,8 @@ The complete step-by-step explanation of **how this project was built from scrat
 ## ▶️ Run Locally
 
 ```bash
+git clone https://github.com/Vignesh-P-C/shopping-web-app
+cd shopping-web-app
 pnpm install
 pnpm dev
 ```
