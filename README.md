@@ -10,7 +10,7 @@ This project was created to understand:
 
 ---
 
-## 📘 Project Journey (Step-by-Step)
+## 📘 Project Journey (Step-by-Step):
 
 The complete step-by-step explanation of **how this project was built from scratch** — including setup, folder structure, development, and Git/GitHub workflow — is documented here:
 
