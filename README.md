@@ -86,7 +86,7 @@ The App Router introduced in Next.js 13 is now the standard. Using it here meant
 
 Want to see how this was built from scratch — including setup decisions, folder structure, and mistakes I fixed along the way?
 
-👉 [How I Built This Project](./HOW_I_created_the_project.md)
+👉 [How I Built This Project](./HOW_i_created_the_project.md)
 
 ---
 
